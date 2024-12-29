@@ -1,0 +1,2 @@
+reportlab>=1.0.0
+instaloader>=1.0.0
